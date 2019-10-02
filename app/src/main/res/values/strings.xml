@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">p1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_crear">Crear</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="menu_creditos">Creditos</string>
+    <string name="menu_modificar">Modificar</string>
+    <string name="menu_listar">Listar</string>
+    <string name="menu_sid">ID</string>
+    <string name="menu_snom_animal">Nombre del Animal</string>
+    <string name="menu_ssexo">Sexo</string>
+    <string name="menu_shabitat">Habitat</string>
+    <string name="menu_sfecha_ingreso">Fecha de Ingreso</string>
+    <string name="menu_salimentacion">Alimentación</string>
+    <string name="menu_slimpiar">Limpiar</string>
+    <string name="menu_sguardar">Guardar</string>
+    <string name="menu_sborrar">Borrar</string>
+    <string name="menu_seliminar">Eliminar</string>
+</resources>

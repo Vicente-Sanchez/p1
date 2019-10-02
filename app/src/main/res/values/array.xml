@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>"Aereos"</item>
+        <item>"Terrestres"</item>
+        <item>"Acuaticos"</item>
+        <item>"Reptiles"</item>
+    </string-array>
+    <string-array name="o0">
+        <item>No has Seleccionado una Clasificación</item>
+    </string-array>
+    <string-array name="o1">
+        <item>Elija el tipo de animal</item>
+        <item>Serpiente</item>
+        <item>Iguana</item>
+        <item>Cocodrilo</item>
+    </string-array>
+
+    <string-array name="o2">
+        <item>Elija el tipo de animal</item>
+        <item>Flamingo</item>
+        <item>Buho</item>
+        <item>Pato</item>
+        <item>Halcón</item>
+    </string-array>
+
+    <string-array name="o3">
+        <item>Elija el tipo de animal</item>
+        <item>Jirafa</item>
+        <item>Tigre</item>
+        <item>Elefante</item>
+        <item>Rinoceronte</item>
+    </string-array>
+
+    <string-array name="o4">
+        <item>Elija el tipo de animal</item>
+        <item>Tiburón</item>
+        <item>Delfín</item>
+        <item>Ballena</item>
+        <item>Mata Raya</item>
+    </string-array>
+</resources>
