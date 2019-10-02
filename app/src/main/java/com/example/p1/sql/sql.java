@@ -26,6 +26,7 @@ private static final String tprod="CREATE TABLE ANIMAL"+
     }
 
     @Override
+    
     public void onUpgrade(SQLiteDatabase db, int OlVersion, int NewVersion) {
         if (NewVersion>OlVersion){
             db.execSQL("DROP TABLE IF EXISTS ANIMAL");
